@@ -1,0 +1,142 @@
+.frame {
+    margin-left: 3rem;
+    }
+
+
+.h1 {
+    text-align: center;
+    font-size: 6rem;
+    margin-top: 3rem ;
+    margin-bottom: 4rem ;
+}
+
+.h2 {
+    text-align: left;
+    font-size: 2rem;
+    margin-top: 3rem ;
+    margin-bottom: 3rem ;
+    margin-left: 0rem;
+
+}
+
+.h1margin { margin-top: 3rem ;
+    margin-bottom: 2rem ;
+}
+
+.p2 {
+    margin-top: 4rem ;
+    margin-bottom: 3rem ;
+    color: black;
+    text-align: center;
+    }
+
+    .p {
+        color: black;
+        }
+
+.App {
+    text-align: center;
+    }
+
+.search-form {
+    display: inline-block;
+    }
+
+.description-text {
+    color: black;
+    max-height: 20rem;
+    max-width: 50rem;
+    overflow: auto;
+    margin: 1rem;
+    }
+
+.image {
+    margin: 1rem;
+    }
+
+.book {
+    border: thin solid;
+    color: rgb(214, 183, 79);
+    font-size: 1rem;
+    border-width: 1rem;
+    margin-right: 10rem;
+    margin-top: 3rem ;
+    }
+
+.button-nav {
+    background-color: white;
+    color: rgb(142, 143, 139);
+    border: solid;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+    display: center;
+    cursor: pointer;
+    }
+
+.button-color {
+    background-color: white;
+    color: rgb(2, 2, 2);
+    border: solid;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+    display: center;
+    cursor: pointer;
+    padding: 0.5rem;
+    }
+
+.button-color:hover {
+    background-color: rgb(248, 229, 164);
+    }
+
+.button-inner {
+    margin-left: 1rem;
+    background-color: white;
+    color: rgb(214, 183, 79);
+    border: solid;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem ;
+    display: center;
+    cursor: pointer;
+}
+
+.button-inner:hover {
+    background-color: rgba(238, 235, 235, 0.474);
+    color: rgb(214, 183, 79);
+    border: solid;
+}
+
+.dynamic-button {
+    margin-left: 0rem;
+    background-color: white;
+    color: rgb(214, 183, 79);
+    border: solid;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+    margin-bottom: 6rem ;
+    margin-top: 2rem ;
+    display: center;
+    cursor: pointer;
+}
+
+.dynamic-button:hover {
+    background-color: rgba(238, 235, 235, 0.474);
+    color: rgb(214, 183, 79);
+    border: solid;
+
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: center;
+    flex-direction: center;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    }
+
+.App-link {
+    color: #61dafb;
+    }
